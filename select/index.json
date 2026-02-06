@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Dying Star",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-06T22:00:41.069273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dying Star",
+      "artist": "Ivy",
+      "has_synced": false,
+      "path": "select/01_Dying_Star_Ivy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dying Star",
+      "artist": "2preciious",
+      "has_synced": false,
+      "path": "select/02_Dying_Star_2preciious.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dying Star",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/03_Dying_Star_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "From Some Dying Star",
+      "artist": "Future Bible Heroes",
+      "has_synced": false,
+      "path": "select/04_From_Some_Dying_Star_Future_Bible_Heroes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forged in the Heart of a Dying Star",
+      "artist": "Byzantine",
+      "has_synced": true,
+      "path": "select/05_Forged_in_the_Heart_of_a_Dying_Star_Byzantine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Dying Star",
+      "artist": "In This Moment",
+      "has_synced": true,
+      "path": "select/06_A_Dying_Star_In_This_Moment.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Dying Star (Bonus)",
+      "artist": "In This Moment",
+      "has_synced": true,
+      "path": "select/07_A_Dying_Star_(Bonus)_In_This_Moment.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dying Star",
+      "artist": "Periphery",
+      "has_synced": true,
+      "path": "select/08_Dying_Star_Periphery.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Symphony of a Dying Star",
+      "artist": "Mental Cruelty",
+      "has_synced": false,
+      "path": "select/09_Symphony_of_a_Dying_Star_Mental_Cruelty.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Dying Star",
+      "artist": "In This Moment",
+      "has_synced": true,
+      "path": "select/10_A_Dying_Star_In_This_Moment.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dying Star (feat. Ethel Cain)",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/11_Dying_Star_(feat._Ethel_Cain)_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Symphony of a Dying Star",
+      "artist": "Mental Cruelty",
+      "has_synced": true,
+      "path": "select/12_Symphony_of_a_Dying_Star_Mental_Cruelty.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dying Star",
+      "artist": "In This Moment",
+      "has_synced": true,
+      "path": "select/13_Dying_Star_In_This_Moment.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Epitaph For A Dying Star",
+      "artist": "Nachtmystium",
+      "has_synced": false,
+      "path": "select/14_Epitaph_For_A_Dying_Star_Nachtmystium.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dying Star (feat. Charlie Bath) [2013]",
+      "artist": "Monstercat",
+      "has_synced": true,
+      "path": "select/15_Dying_Star_(feat._Charlie_Bath)_[2013]_Monstercat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dying Star (2013)",
+      "artist": "Au5 & Juventa feat. Charlie Bath",
+      "has_synced": true,
+      "path": "select/16_Dying_Star_(2013)_Au5_&_Juventa_feat._Charlie_Bath.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Live Like You Were Dying",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/17_Live_Like_You_Were_Dying_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dying",
+      "artist": "Maximilian Hecker",
+      "has_synced": true,
+      "path": "select/18_Dying_Maximilian_Hecker.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Live Like You're Dying",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/19_Live_Like_You're_Dying_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Last of a Dying Breed (feat. Lil Wayne)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/20_Last_of_a_Dying_Breed_(feat._Lil_Wayne)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dying for You (feat. YNW Melly)",
+      "artist": "YNW Bslime",
+      "has_synced": true,
+      "path": "select/21_Dying_for_You_(feat._YNW_Melly)_YNW_Bslime.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Better Off (Dying)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/22_Better_Off_(Dying)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "In My Time of Dying - 1990 Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/23_In_My_Time_of_Dying_-_1990_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "In My Time Of Dying",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/24_In_My_Time_Of_Dying_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dying Breed",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/25_Dying_Breed_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Thoughts Of A Dying Atheist",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/26_Thoughts_Of_A_Dying_Atheist_Muse.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Four of Us Are Dying",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/27_The_Four_of_Us_Are_Dying_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "If You Fear Dying",
+      "artist": "One Day As a Lion",
+      "has_synced": true,
+      "path": "select/28_If_You_Fear_Dying_One_Day_As_a_Lion.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Je T'aime Till My Dying Day",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/29_Je_T'aime_Till_My_Dying_Day_Enigma.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "The Dying Truck Driver",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/30_The_Dying_Truck_Driver_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Dying",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/31_Dying_Echobelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dying Star",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_Dying_Star_Enfants.txt"
+    }
+  ]
+}
